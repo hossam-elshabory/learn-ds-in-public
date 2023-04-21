@@ -2,5 +2,5 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Digital Garden Search
 ---

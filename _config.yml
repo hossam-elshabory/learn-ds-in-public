@@ -27,8 +27,8 @@ baseurl: "/learn-ds-in-public"
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Learn Data Science In Public # Change this 
-content: Here i will post my notes about learning data science in public.
+heading: My Public Learning Notes # Change this 
+content: This is were i publish my learning digital notes.
 copyright:  
   year: © 2023
   msg: MIT 
